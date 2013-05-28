@@ -1,0 +1,4 @@
+SAMEVEDStack
+============
+
+SAMEVEDStack = SAMEVED + OpenStack
